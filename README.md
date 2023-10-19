@@ -1,1 +1,1 @@
-# Create a triagle using looping
+# Create a triangle using looping
